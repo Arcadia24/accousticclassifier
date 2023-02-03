@@ -1,0 +1,10 @@
+dataset/*
+brouillon.ipynb
+model/*
+logs/*
+lightning_logs/*
+class_map.json
+preprocinfo.json
+last_run.json
+brouillon.ipynb
+```
